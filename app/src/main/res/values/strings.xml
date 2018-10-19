@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Comunicacion</string>
+    <string name="app_name_2">Nombre y Apellidos</string>
+    <string name="Actividad_1">Actividad 1</string>
+    <string name="Actividad_2">Actividad 2</string>
+    <string name="Actividad_3">Actividad 3</string>
+    <string name="Actividad_4">Actividad 4</string>
+    <string name="Salir">Salir</string>
+    <string name="app_name_3">Aceptar Condiciones</string>
+    <string name="aciertos">PREGUNTAS CORRECTAS %d  INCORRECTAS %d</string>
+    <string name="result">El reusltado de la operación es %s</string>
+</resources>
